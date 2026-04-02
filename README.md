@@ -31,7 +31,7 @@ It lets you export the selected region as a PNG file directly from the editor.
 - addons/texture_cutter/plugin.cfg
 - addons/texture_cutter/texture_cutter.gd
 - addons/texture_cutter/inspector.gd
-- addons/texture_cutter/icon.svg
+- addons/texture_cutter/icon.png
 
 ## Publishing Notes (Godot Asset Library)
 

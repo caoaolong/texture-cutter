@@ -10,5 +10,5 @@
 project.godot export-ignore
 17_Visibile_Upstairs_System_Black_Shadow_48x48.png export-ignore
 17_Visibile_Upstairs_System_Black_Shadow_48x48.png.import export-ignore
-icon.svg.import export-ignore
+icon.png.import export-ignore
 addons/texture_cutter/*.uid export-ignore
